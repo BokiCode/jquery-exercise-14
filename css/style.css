@@ -1,0 +1,4 @@
+#wrongPassword, #wrongUsername {
+    color: red;
+    display: none;
+}
